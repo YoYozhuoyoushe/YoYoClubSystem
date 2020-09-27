@@ -1,0 +1,6 @@
+[submodule "YoYoClubSystem-Frontend"]
+	path = YoYoClubSystem-Frontend
+	url = https://github.com/YoYozhuoyoushe/YoYoClubSystem-Frontend.git
+[submodule "YoYoClubSystem-Backend"]
+	path = YoYoClubSystem-Backend
+	url = https://github.com/YoYozhuoyoushe/YoYoClubSystem-Backend.git
